@@ -11,3 +11,5 @@
 - Página de venda responsiva
 
 ### Visualização:
+
+![alt text](image.png)
